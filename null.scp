@@ -1,0 +1,3 @@
+method    = scp
+scp_file  = ~/null-batlab-scripts/*
+recursive = true
