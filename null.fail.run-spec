@@ -1,0 +1,8 @@
+run_type    = test
+inputs      = null.scp
+remote_task = null_fail_test.sh
+post_all=post.sh
+platforms   = x86_64_Ubuntu12
+project     = Cyclus
+project_version = null
+description = null failing test
